@@ -6,7 +6,7 @@ using namespace std;
 
 int main()
 {
-  int n = 5;
+  const int n = 5;
   int a[n];
   ifstream f("file.txt");
   for (int i = 0; i < n; ++i)
