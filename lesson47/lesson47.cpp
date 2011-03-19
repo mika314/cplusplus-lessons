@@ -1,5 +1,5 @@
 // Урок 47
-// Ханойская башня без рекурсии
+// Анимация ханойской башни в OpenGL
 #include <iostream>
 #include <vector>
 #include <GL/glut.h>
