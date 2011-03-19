@@ -1,4 +1,4 @@
-// Урок 45
+// Урок 46
 // Ханойская башня без рекурсии
 #include <iostream>
 #include <vector>
