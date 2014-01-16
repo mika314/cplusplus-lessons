@@ -39,5 +39,5 @@ float n(float x1, float x2)
 
 int main()
 {
-  cout << "Вы загодали: " << (int)n(0, 100);
+  cout << "Вы загадали: " << (int)n(0, 100);
 }
