@@ -1,6 +1,7 @@
 // Урок 45
 // Волны
 #include <GL/glut.h>
+#include <cstdlib> // for rand(), not compile on Microsoft Visual C++
 #include <cmath>
 
 const float K = 40;
