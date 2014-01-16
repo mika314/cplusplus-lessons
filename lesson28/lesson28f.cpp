@@ -82,7 +82,9 @@ float expr()
 
 int main()
 {
+  setlocale(LC_ALL, "Russian");
   cout << "Введите выражение: ";
   float res = expr();
   cout << "Результат: " << res << endl;
+  while (true) {}
 }
